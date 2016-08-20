@@ -1,0 +1,8 @@
+C:\Users\Mariana\Desktop\LogicOfBackgammonGame\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Mariana\Desktop\LogicOfBackgammonGame\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Mariana\Desktop\LogicOfBackgammonGame\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Mariana\Desktop\LogicOfBackgammonGame\ConsoleApplication1\bin\Debug\LogicOfBackgammonGame.dll
+C:\Users\Mariana\Desktop\LogicOfBackgammonGame\ConsoleApplication1\bin\Debug\LogicOfBackgammonGame.pdb
+C:\Users\Mariana\Desktop\LogicOfBackgammonGame\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Mariana\Desktop\LogicOfBackgammonGame\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Mariana\Desktop\LogicOfBackgammonGame\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

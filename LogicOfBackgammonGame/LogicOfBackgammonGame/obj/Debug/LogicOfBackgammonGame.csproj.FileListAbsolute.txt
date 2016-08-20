@@ -1,0 +1,5 @@
+C:\Users\Mariana\Desktop\LogicOfBackgammonGame\LogicOfBackgammonGame\bin\Debug\LogicOfBackgammonGame.dll
+C:\Users\Mariana\Desktop\LogicOfBackgammonGame\LogicOfBackgammonGame\bin\Debug\LogicOfBackgammonGame.pdb
+C:\Users\Mariana\Desktop\LogicOfBackgammonGame\LogicOfBackgammonGame\obj\Debug\LogicOfBackgammonGame.csprojResolveAssemblyReference.cache
+C:\Users\Mariana\Desktop\LogicOfBackgammonGame\LogicOfBackgammonGame\obj\Debug\LogicOfBackgammonGame.dll
+C:\Users\Mariana\Desktop\LogicOfBackgammonGame\LogicOfBackgammonGame\obj\Debug\LogicOfBackgammonGame.pdb
