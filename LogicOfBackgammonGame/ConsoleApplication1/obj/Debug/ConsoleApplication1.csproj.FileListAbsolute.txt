@@ -6,3 +6,11 @@ C:\Users\Mariana\Desktop\LogicOfBackgammonGame\ConsoleApplication1\bin\Debug\Log
 C:\Users\Mariana\Desktop\LogicOfBackgammonGame\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
 C:\Users\Mariana\Desktop\LogicOfBackgammonGame\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\Mariana\Desktop\LogicOfBackgammonGame\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Mariana Abuhatoum\BackGammonGame\LogicOfBackgammonGame\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Mariana Abuhatoum\BackGammonGame\LogicOfBackgammonGame\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Mariana Abuhatoum\BackGammonGame\LogicOfBackgammonGame\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Mariana Abuhatoum\BackGammonGame\LogicOfBackgammonGame\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Mariana Abuhatoum\BackGammonGame\LogicOfBackgammonGame\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Mariana Abuhatoum\BackGammonGame\LogicOfBackgammonGame\ConsoleApplication1\bin\Debug\LogicOfBackgammonGame.dll
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Mariana Abuhatoum\BackGammonGame\LogicOfBackgammonGame\ConsoleApplication1\bin\Debug\LogicOfBackgammonGame.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Mariana Abuhatoum\BackGammonGame\LogicOfBackgammonGame\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

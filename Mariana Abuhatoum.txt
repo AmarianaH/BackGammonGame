@@ -1,0 +1,21 @@
+*)Encapsulation of the game engine (or any logical layer) is important
+
+WhiteBar,BlackBar,WhiteEnd,BlackEnd
+Board.board[]  - a public array - what happens when you change the implementation of the Board class? everything will stop compiling
+
+
+*)'GetBoardForPrint' is a bad choice of name - but a good practice - Print indicates that the UI is a console when in fact it can be anything
+
+
+*)TryMove - good design choice - very versatile
+
+*)Bar is not observed - changed only on initialization
+
+*)Player - bad choice of name - game engine would be better
+
+*) Player.WhoBegins - bug in implementation - enum is a value type and the changes made inside of the method will not be reflected outside it.
+
+*) MoveForBlackAndWhite and WhiteAndBlackMove - what is the difference? why are both exposed?
+
+*)Game does not work - would not accept any moves.
+

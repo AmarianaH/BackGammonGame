@@ -13,9 +13,7 @@ namespace LogicOfBackgammonGame
         public readonly Board _board;
         public int _diceone { get; set; }
         public int _dicetwo { get; set; }
-        public Colors
-            WinnerColor
-        { get; set; }
+        public Colors WinnerColor { get; set; }
 
         Board IPlayer._board
         {

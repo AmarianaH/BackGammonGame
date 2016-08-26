@@ -3,3 +3,8 @@ C:\Users\Mariana\Desktop\LogicOfBackgammonGame\LogicOfBackgammonGame\bin\Debug\L
 C:\Users\Mariana\Desktop\LogicOfBackgammonGame\LogicOfBackgammonGame\obj\Debug\LogicOfBackgammonGame.csprojResolveAssemblyReference.cache
 C:\Users\Mariana\Desktop\LogicOfBackgammonGame\LogicOfBackgammonGame\obj\Debug\LogicOfBackgammonGame.dll
 C:\Users\Mariana\Desktop\LogicOfBackgammonGame\LogicOfBackgammonGame\obj\Debug\LogicOfBackgammonGame.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Mariana Abuhatoum\BackGammonGame\LogicOfBackgammonGame\LogicOfBackgammonGame\bin\Debug\LogicOfBackgammonGame.dll
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Mariana Abuhatoum\BackGammonGame\LogicOfBackgammonGame\LogicOfBackgammonGame\bin\Debug\LogicOfBackgammonGame.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Mariana Abuhatoum\BackGammonGame\LogicOfBackgammonGame\LogicOfBackgammonGame\obj\Debug\LogicOfBackgammonGame.csprojResolveAssemblyReference.cache
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Mariana Abuhatoum\BackGammonGame\LogicOfBackgammonGame\LogicOfBackgammonGame\obj\Debug\LogicOfBackgammonGame.dll
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Mariana Abuhatoum\BackGammonGame\LogicOfBackgammonGame\LogicOfBackgammonGame\obj\Debug\LogicOfBackgammonGame.pdb

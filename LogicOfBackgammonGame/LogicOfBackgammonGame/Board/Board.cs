@@ -9,8 +9,11 @@ namespace LogicOfBackgammonGame
     public class Board
     {
         public int[] board { get; }
-        public int WhiteBar, BlackBar;
-        public int WhiteEnd, BlackEnd;
+        public int WhiteBar { get; set; }
+        public int BlackBar { get; set; }
+
+        public int WhiteEnd { get; set; }
+        public int BlackEnd { get; set; }
 
 
         public Board()
